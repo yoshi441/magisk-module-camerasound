@@ -1,6 +1,6 @@
-id=camerasound-mod
+id=camerasound-mod-ksu
 name=Force disable camera sound
-version=v02
+version=v02+ksu
 versionCode=2
-author=AndroPlus
+author=yoshi441
 description=Force disable camera sound

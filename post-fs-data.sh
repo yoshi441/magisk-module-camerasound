@@ -5,4 +5,4 @@
 # This will make sure your module will still work
 # if Magisk change its mount point in the future
 
-setprop audio.camerasound.force false
+resetprop -n audio.camerasound.force false
